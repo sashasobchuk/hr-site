@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/hr-site/static/css/main.3e887f63.css",
+    "main.js": "/hr-site/static/js/main.adc75088.js",
+    "static/js/787.0fb843ba.chunk.js": "/hr-site/static/js/787.0fb843ba.chunk.js",
+    "static/media/img.png": "/hr-site/static/media/img.d6fc3694b61d2e9f1fcb.png",
+    "static/media/Illistration.png": "/hr-site/static/media/Illistration.6c7240760fd61710ec44.png",
+    "static/media/Calendar.svg": "/hr-site/static/media/Calendar.f2cf58560b79334e96eb5df7685ed602.svg",
+    "static/media/3 User.svg": "/hr-site/static/media/3 User.94649b93f6213a495de9ceb168751e16.svg",
+    "static/media/Work.svg": "/hr-site/static/media/Work.c4baf5aa3b3f920937652242ebc44bd2.svg",
+    "static/media/Setting.svg": "/hr-site/static/media/Setting.f3857f8a4967f014d6fde6409ce981e8.svg",
+    "static/media/Search.svg": "/hr-site/static/media/Search.6f1b9ba2ab2cbcd6fdec0c2c2e341c4b.svg",
+    "static/media/Heart.svg": "/hr-site/static/media/Heart.25a78bff74368963dcb57d5efdef8142.svg",
+    "static/media/Notification.svg": "/hr-site/static/media/Notification.bb50a8f94f88b651d41c78c9ad8c2f91.svg",
+    "static/media/Graph.svg": "/hr-site/static/media/Graph.36748d5139340d7513759c42c4450afb.svg",
+    "static/media/Document.svg": "/hr-site/static/media/Document.0a04ec5723f9008ab81cc727540f038e.svg",
+    "static/media/Filter.svg": "/hr-site/static/media/Filter.6a4296d287fffb63f7349d090dafbe19.svg",
+    "static/media/Info Square.svg": "/hr-site/static/media/Info Square.e496c976017ade5b6e38b875454d8807.svg",
+    "static/media/Home.svg": "/hr-site/static/media/Home.624fc464f3aba2a307a500e40ce53455.svg",
+    "static/media/Message.svg": "/hr-site/static/media/Message.ba8e65ee79d888cdd447cc95f5032fd0.svg",
+    "static/media/Tick Square.svg": "/hr-site/static/media/Tick Square.219671d4441fd7852be326d2e3296865.svg",
+    "index.html": "/hr-site/index.html",
+    "static/media/Profile.svg": "/hr-site/static/media/Profile.85fa49a511fa2f352fa1757dbd9bd62b.svg",
+    "main.3e887f63.css.map": "/hr-site/static/css/main.3e887f63.css.map",
+    "main.adc75088.js.map": "/hr-site/static/js/main.adc75088.js.map",
+    "787.0fb843ba.chunk.js.map": "/hr-site/static/js/787.0fb843ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e887f63.css",
+    "static/js/main.adc75088.js"
+  ]
+}
